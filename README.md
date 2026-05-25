@@ -1,2 +1,18 @@
-# invoice-processing-tool
-Automation tool for invoice processing, GST validation, payment tracking and vendor reconciliation. Includes invoice analytics, TDS/TCS reporting, CSV/Excel automation and financial workflow management using Excel, VBA, HTML and JavaScript.
+# Invoice Processing Tool
+
+This project helps automate:
+
+* Invoice processing
+* GST validation
+* Payment tracking
+* Vendor reconciliation
+* Financial workflow automation
+
+Tools used:
+
+* Excel
+* VBA
+* HTML
+* JavaScript
+
+Designed for invoice management and accounting operations.
